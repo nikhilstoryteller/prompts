@@ -1,0 +1,73 @@
+{
+    "logo_placement": "Analyze the image and generate observations about logo placement in one to five words per point, separated by commas. Focus on logo prominence, size, orientation, position, and visibility. Provide keywords or short phrases only. Example Output: – Prominent, centered, black text, top. - Black and white, simple design.",
+    
+    "resolution_quality": "Examine the image and provide observations on its resolution quality in one to five words per point, separated by commas. Focus on clarity, sharpness, overall quality, and suitability for different formats. Provide keywords or short phrases only. Example Output: – High resolution, crisp details, suitable for print.",
+    
+    "color_palette": "Analyze the color palette in the image, noting dominant and accent colors, hues, tones, and saturation levels in one to five words per point, separated by commas. Focus on mood or atmosphere. Provide keywords or short phrases only. Example Output: – Vibrant, warm tones, dominant reds, energetic atmosphere.",
+    
+    "visual_themes": "Identify visual themes in the image in one to five words per point, separated by commas. Note emotional and stylistic tones like modern, rustic, futuristic, etc. Provide keywords or short phrases only. Example Output: – Futuristic, vibrant, tech-oriented, high energy.",
+    
+    "key_objects": "Identify key objects in the image, providing one to five words per point, separated by commas. Focus on object prominence, relevance, and contribution to the message. Provide keywords or short phrases only. Example Output: – Woman, cocktail, slot machine, neon lights.",
+    
+    "people_attributes": "Describe the people in the image, if any, using one to five words per point, separated by commas. Focus on demographics, attributes, and alignment with target audience. Provide keywords or short phrases only. Example Output: – Young adult, casual attire, smiling, relaxed.",
+    
+    "text_amount": "Evaluate the text amount in the image, with observations in one to five words per point, separated by commas. Note text density, readability, and balance with visuals. Provide keywords or short phrases only. Example Output: – Minimal text, highly readable, balanced layout.",
+    
+    "text_overlay_style": "Analyze the style of the text overlay in the image in one to five words per point, separated by commas. Note font, color, placement, and effects. Provide keywords or short phrases only. Example Output: – Bold font, blue text, top-right corner.",
+    
+    "brand_integration": "Observe brand integration in the image, with details in one to five words per point, separated by commas. Note placements like foreground, background, embedded, or prominently displayed. Provide keywords or short phrases only. Example Output: – Subtle hint, top left corner, small size.",
+    
+    "background_elements": "Identify background elements in the image in one to five words per point, separated by commas. Note urban or natural scenes, abstract patterns, or textures and their impact. Provide keywords or short phrases only. Example Output: – Casino setting, neon lights, slot machines.",
+    
+    "vfx_elements": "Identify visual effects (VFX) in the image, if any, in one to five words per point, separated by commas. Note CGI, 3D rendering, motion blur, overlays, filters, and effects used. Provide keywords or short phrases only. Example Output: – Motion blur, overlay, neon glow effect.",
+    
+    "layout_composition": "Describe the image's layout and composition in one to five words per point, separated by commas. Note rule of thirds, symmetry, balance, framing, focal points, and layout type. Provide keywords or short phrases only. Example Output: – Balanced, centered focus, negative space.",
+    
+    "shot_type": "Analyze the shot type in the image in one to five words per point, separated by commas. Note framing such as close-up, wide shot, and angle (eye-level, high-angle, etc.). Provide keywords or short phrases only. Example Output: – Close-up, eye-level, focused on subject.",
+    
+    "editing_style": "Observe the editing style in the image, with details in one to five words per point, separated by commas. Note color correction, filters, vignettes, and grain effects. Provide keywords or short phrases only. Example Output: – Cool filter, high contrast, subtle vignette.",
+    
+    "camera_movement": "Identify any camera movement in the image in one to five words per point, separated by commas. Note movement types like tracking, panning, tilting, or motion blur. Provide keywords or short phrases only. Example Output: – Static, no movement, clear focus.",
+    
+    "lighting_style": "Describe the lighting style in the image in one to five words per point, separated by commas. Note natural, studio, high contrast, soft, harsh, backlighting, and ambient lighting. Provide keywords or short phrases only. Example Output: – Soft lighting, high contrast, backlit.",
+    
+    "narrative_style": "Analyze the narrative style in the image in one to five words per point, separated by commas. Note storytelling structures like testimonial, journey, humor, or suspense. Provide keywords or short phrases only. Example Output: – Storytelling, problem-solution, emotional appeal.",
+    
+    "emotional_tone": "Identify the emotional tone of the image in one to five words per point, separated by commas. Note moods like playful, joyful, dramatic, or nostalgic. Provide keywords or short phrases only. Example Output: – Joyful, vibrant, casual, friendly.",
+    
+    "cta_presence": "Identify calls to action (CTAs) in the image in one to five words per point, separated by commas. Note CTA forms like button, text, or symbol, and engagement design. Provide keywords or short phrases only. Example Output: – Bold CTA, clickable, red button, urgency.",
+    
+    "hook_presence": "Examine any hook in the image in one to five words per point, separated by commas. Identify hooks like bold statements, emotional appeal, humor, or shock value. Provide keywords or short phrases only. Example Output: – Bold statement, emotional appeal, eye-catching.",
+    
+    "target_audience": "Describe traits of the target audience based on the image in one to five words per point, separated by commas. Note age, gender, cultural background, interests, lifestyle. Provide keywords or short phrases only. Example Output: – Young adults, tech-savvy, urban lifestyle.",
+    
+    "cultural_relevance": "Observe cultural relevance in the image in one to five words per point, separated by commas. Note symbols, traditions, language, or themes meaningful to the target audience. Provide keywords or short phrases only. Example Output: – Pop culture references, youth appeal.",
+    
+    "business_tags": "Analyze the image and generate contextual tags that are relevant from a business perspective. Identify keywords that relate to the product features, services offered, brand values, industry sector, marketing campaign themes, competitive advantages, target market, unique selling propositions, and any relevant business strategies. Provide keywords or short phrases only. Example Output: – Eco-friendly, luxury, minimalistic, tech.",
+    
+    "product_tags": "Analyze this product image and generate relevant tags that describe the key elements of the product. Focus on keywords related to the product type, brand, target audience, features, benefits, functionalities, materials, sizes, colors, usage occasions, design or aesthetic qualities, and any unique selling points. Provide the tags in the form of bullet points.",
+    
+    "brand_cues": "Examine brand integration in the image in one to five words per point, separated by commas. Note brand cues like logo placement, product usage, or colors. Provide keywords or short phrases only. Example Output: – Prominent logo, central placement, brand colors.",
+    
+    "platform_features": "Identify platform-specific features in the image, if any, in one to five words per point, separated by commas. Note aspect ratios, native elements, or platform-focused design choices. Provide keywords or short phrases only. Example Output: – Swipe up, mobile-friendly, native layout.",
+    
+    "symbols_icons": "Identify symbols, icons, or visual shorthand in the image in one to five words per point, separated by commas. Note if they clarify meaning, enhance interest, or provide cultural references. Provide keywords or short phrases only. Example Output: – Icons, clear meaning, brand logo.",
+    
+    "depth_of_field": "Observe depth of field in the image in one to five words per point, separated by commas. Note shallow or deep focus, visual hierarchy, and focal emphasis. Provide keywords or short phrases only. Example Output: – Shallow focus, blurred background, subject highlight.",
+    
+    "offer_promotion": "Identify any offers or promotions in the image in one to five words per point, separated by commas. Note elements like discounts, limited-time offers, or exclusivity. Provide keywords or short phrases only. Example Output: – Limited time, exclusive offer, 20% off.",
+    
+    "hook_binary": "Examine the image to determine if there is a hook, such as an intriguing headline, emotional appeal, or other attention-grabbing elements. Respond with True if a hook is present, otherwise respond with False.",
+    
+    "offer_binary": "Inspect the image for any indication of an offer or promotion, such as discounts, limited-time offers, or similar promotional elements. Respond with True if an offer or promotion is present, otherwise respond with False.",
+    
+    "cta_binary": "Analyze the image and determine if a call to action (CTA) element, such as a button, text, or symbol prompting action, is present. Respond with True if a CTA",
+
+    "interactivity_binary": "Review the image to see if it suggests or encourages user interactivity, such as clickable elements or prompts. Respond with True if interactivity is suggested, otherwise respond with False.",
+    
+    "product_presence_binary":"Examine the image and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False.",
+
+    "logo_presence_binary":"Analyze the image and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False.",
+
+    "cta_specific":"Identify any calls to action (CTAs) in the image in one to five words per point, separated by commas. Specify if the CTA is in the form of text, button, or symbol, and describe its emphasis and design for engagement. Provide keywords or short phrases only. Example Output: – Bold text, large button, high contrast, click here."
+}
