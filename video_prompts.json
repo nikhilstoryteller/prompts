@@ -1,0 +1,73 @@
+{
+    "logo_placement": "Analyze these frames from the video and generate a single, combined observation about logo placement. Focus on logo prominence, size, orientation, position, and visibility across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Prominent, centered, black text, top.",
+    
+    "resolution_quality": "Examine these frames from the video and provide a single, combined observation on their resolution quality. Focus on clarity, sharpness, overall quality, and suitability for different formats. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – High resolution, crisp details, suitable for print.",
+    
+    "color_palette": "Analyze the color palette in these frames from the video and provide a single, combined observation. Note dominant and accent colors, hues, tones, and saturation levels, focusing on mood or atmosphere. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Vibrant, warm tones, dominant reds, energetic atmosphere.",
+    
+    "visual_themes": "Identify visual themes in these frames from the video and provide a single, combined observation. Note emotional and stylistic tones like modern, rustic, futuristic, etc., considering the continuity across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Futuristic, vibrant, tech-oriented, high energy.",
+    
+    "key_objects": "Identify key objects in these frames from the video and provide a single, combined observation. Focus on object prominence, relevance, and contribution to the video's message. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Woman, cocktail, slot machine, neon lights.",
+    
+    "people_attributes": "Describe the people in these frames from the video, if any, and provide a single, combined observation. Focus on demographics, attributes, and alignment with the target audience throughout the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Young adult, casual attire, smiling, relaxed.",
+    
+    "text_amount": "Evaluate the text amount in these frames from the video and provide a single, combined observation. Note text density, readability, and balance with visuals across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Minimal text, highly readable, balanced layout.",
+    
+    "text_overlay_style": "Analyze the style of text overlays in these frames from the video and provide a single, combined observation. Note font, color, placement, and effects as they appear in the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Bold font, blue text, top-right corner.",
+    
+    "brand_integration": "Observe brand integration in these frames from the video and provide a single, combined observation. Note placements like foreground, background, embedded, or prominently displayed across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Subtle hint, top left corner, small size.",
+    
+    "background_elements": "Identify background elements in these frames from the video and provide a single, combined observation. Note urban or natural scenes, abstract patterns, or textures and their impact across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Casino setting, neon lights, slot machines.",
+    
+    "vfx_elements": "Identify visual effects (VFX) in these frames from the video and provide a single, combined observation. Note CGI, 3D rendering, motion blur, overlays, filters, and effects used in the video. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Motion blur, overlay, neon glow effect.",
+    
+    "layout_composition": "Describe the layout and composition of these frames from the video and provide a single, combined observation. Note rule of thirds, symmetry, balance, framing, focal points, and layout type. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Balanced, centered focus, negative space.",
+    
+    "shot_type": "Analyze the shot type in these frames from the video and provide a single, combined observation. Note framing such as close-up, wide shot, and angle (eye-level, high-angle, etc.). Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Close-up, eye-level, focused on subject.",
+    
+    "editing_style": "Observe the editing style in these frames from the video and provide a single, combined observation. Note transitions, color correction, filters, vignettes, and grain effects. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Cool filter, high contrast, subtle vignette.",
+    
+    "camera_movement": "Identify any camera movement suggested by these frames from the video and provide a single, combined observation. Note movement types like tracking, panning, tilting, or motion blur. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Static, no movement, clear focus.",
+    
+    "lighting_style": "Describe the lighting style in these frames from the video and provide a single, combined observation. Note natural, studio, high contrast, soft, harsh, backlighting, and ambient lighting across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Soft lighting, high contrast, backlit.",
+    
+    "narrative_style": "Analyze the narrative style in these frames from the video and provide a single, combined observation. Note storytelling structures like testimonial, journey, humor, or suspense. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Storytelling, problem-solution, emotional appeal.",
+    
+    "emotional_tone": "Identify the emotional tone in these frames from the video and provide a single, combined observation. Note moods like playful, joyful, dramatic, or nostalgic. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Joyful, vibrant, casual, friendly.",
+    
+    "cta_presence": "Identify calls to action (CTAs) in these frames from the video and provide a single, combined observation. Note CTA forms like button, text, or symbol, and engagement design across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Bold CTA, clickable, red button, urgency.",
+    
+    "hook_presence": "Examine any hooks in these frames from the video and provide a single, combined observation. Identify hooks like bold statements, emotional appeal, humor, or shock value across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Bold statement, emotional appeal, eye-catching.",
+    
+    "target_audience": "Describe traits of the target audience based on these frames from the video and provide a single, combined observation. Note age, gender, cultural background, interests, lifestyle. Provide concise and unique keywords or short phrases only. Example Output: – Young adults, tech-savvy, urban lifestyle.",
+    
+    "cultural_relevance": "Observe cultural relevance in these frames from the video and provide a single, combined observation. Note symbols, traditions, language, or themes meaningful to the target audience. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Pop culture references, youth appeal.",
+    
+    "business_tags": "Analyze these frames from the video and generate a single, combined set of contextual tags that are relevant from a business perspective. Identify keywords that relate to product features, services offered, brand values, industry sector, marketing campaign themes, competitive advantages, target market, unique selling propositions, and any relevant business strategies. Eliminate duplicate or redundant tags. Provide the tags in the form of bullet points.",
+    
+    "product_tags": "Analyze these product frames from the video and generate a single, combined set of relevant tags that describe the key elements of the product. Focus on keywords related to the product type, brand, target audience, features, benefits, functionalities, materials, sizes, colors, usage occasions, design or aesthetic qualities, and any unique selling points. Eliminate duplicate or redundant tags. Provide the tags in the form of bullet points.",
+    
+    "brand_cues": "Examine brand integration in these frames from the video and provide a single, combined observation. Note brand cues like logo placement, product usage, or colors. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Prominent logo, central placement, brand colors.",
+    
+    "platform_features": "Identify platform-specific features in these frames from the video and provide a single, combined observation. Note aspect ratios, native elements, or platform-focused design choices. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Swipe up, mobile-friendly, native layout.",
+    
+    "symbols_icons": "Identify symbols, icons, or visual shorthand in these frames from the video and provide a single, combined observation. Note if they clarify meaning, enhance interest, or provide cultural references. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Icons, clear meaning, brand logo.",
+    
+    "depth_of_field": "Observe depth of field in these frames from the video and provide a single, combined observation. Note shallow or deep focus, visual hierarchy, and focal emphasis. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Shallow focus, blurred background, subject highlight.",
+    
+    "offer_promotion": "Identify any offers or promotions in these frames from the video and provide a single, combined observation. Note elements like discounts, limited-time offers, or exclusivity. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Limited time, exclusive offer, 20% off.",
+    
+    "hook_binary": "Examine these frames from the video to determine if there is a hook, such as an intriguing headline, emotional appeal, or other attention-grabbing elements. Respond with True if a hook is present, otherwise respond with False.",
+    
+    "offer_binary": "Inspect these frames from the video for any indication of an offer or promotion, such as discounts, limited-time offers, or similar promotional elements. Respond with True if an offer or promotion is present, otherwise respond with False.",
+    
+    "cta_binary": "Analyze these frames from the video and determine if a call to action (CTA) element, such as a button, text, or symbol prompting action, is present. Respond with True if a CTA is present, otherwise respond with False.",
+    
+    "interactivity_binary": "Review these frames from the video to see if they suggest or encourage user interactivity, such as clickable elements or prompts. Respond with True if interactivity is suggested, otherwise respond with False.",
+    
+    "product_presence_binary": "Examine these frames from the video and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False.",
+    
+    "logo_presence_binary": "Analyze these frames from the video and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False.",
+    
+    "cta_specific": "Identify any calls to action (CTAs) in these frames from the video and generate a single, combined observation. Specify if the CTA is in the form of text, button, or symbol, and describe its emphasis and design for engagement. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Bold text, large button, high contrast, click here."
+}
