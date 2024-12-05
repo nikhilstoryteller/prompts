@@ -35,7 +35,7 @@
     
     "emotional_tone": "Identify the emotional tone of the image in one to five words per point, separated by commas. Note moods like playful, joyful, dramatic, or nostalgic. Provide keywords or short phrases only. Example Output: – Joyful, vibrant, casual, friendly.",
     
-    "cta_presence": "Identify calls to action (CTAs) in the image in one to five words per point, separated by commas. Note CTA forms like button, text, or symbol, and engagement design. If no CTA is present, respond explicitly with 'No CTA present.' Example Output: – Bold CTA, clickable, red button, urgency OR No CTA present.",
+    "cta_presence": "Identify calls to action (CTAs) in the image in one to five words per point, separated by commas. Note CTA forms like button, text, or symbol, and engagement design. If no CTA is present, respond explicitly with -No CTA present. Example Output: – Bold CTA, clickable, red button, urgency OR No CTA present.",
     
     "hook_presence": "Examine any hook in the image in one to five words per point, separated by commas. Identify hooks like bold statements, emotional appeal, humor, or shock value. Provide keywords or short phrases only. Example Output: – Bold statement, emotional appeal, eye-catching.",
     
