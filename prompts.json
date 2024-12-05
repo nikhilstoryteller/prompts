@@ -57,17 +57,17 @@
     
     "offer_promotion": "Identify any offers or promotions in the image in one to five words per point, separated by commas. Note elements like discounts, limited-time offers, or exclusivity. Provide keywords or short phrases only. Example Output: – Limited time, exclusive offer, 20% off.",
     
-    "hook_binary": "Examine the image to determine if there is a hook, such as an intriguing headline, emotional appeal, or other attention-grabbing elements. Respond with True if a hook is present, otherwise respond with False.",
+    "hook_binary": "Examine the image to determine if there is a hook, such as an intriguing headline, emotional appeal, or other attention-grabbing elements. Respond with True if a hook is present, otherwise respond with False. Respond only with True or False.",
     
-    "offer_binary": "Inspect the image for any indication of an offer or promotion, such as discounts, limited-time offers, or similar promotional elements. Respond with True if an offer or promotion is present, otherwise respond with False.",
+    "offer_binary": "Inspect the image for any indication of an offer or promotion, such as discounts, limited-time offers, or similar promotional elements. Respond with True if an offer or promotion is present, otherwise respond with False. Respond only with True or False.",
     
-    "cta_binary": "Analyze the image and determine if a call to action (CTA) element, such as a button, text, or symbol prompting action, is present. Respond with True if a CTA",
+    "cta_binary": "Analyze the image and determine if a call to action (CTA) element, such as a button, text, or symbol prompting action, is present. Respond with True if a CTA. Respond only with True or False.",
 
-    "interactivity_binary": "Review the image to see if it suggests or encourages user interactivity, such as clickable elements or prompts. Respond with True if interactivity is suggested, otherwise respond with False.",
+    "interactivity_binary": "Review the image to see if it suggests or encourages user interactivity, such as clickable elements or prompts. Respond with True if interactivity is suggested, otherwise respond with False. Respond only with True or False.",
     
-    "product_presence_binary":"Examine the image and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False.",
+    "product_presence_binary":"Examine the image and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False. Respond only with True or False.",
 
-    "logo_presence_binary":"Analyze the image and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False.",
+    "logo_presence_binary":"Analyze the image and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False. Respond only with True or False.",
 
     "cta_specific":"Identify any calls to action (CTAs) in the image in one to five words per point, separated by commas. Specify if the CTA is in the form of text, button, or symbol, and describe its emphasis and design for engagement. Provide keywords or short phrases only. Example Output: – Bold text, large button, high contrast, click here."
 }
