@@ -13,8 +13,6 @@
     
     "urgency_and_scarcity": "Analyze urgency and scarcity in one to five words per point, separated by commas. Note countdowns, exclusivity, or stock indicators. Example Output: – Limited stock, countdown timer, exclusive offer.",
     
-    "user_experience": "Examine UX factors in one to five words per point, separated by commas. Note speed, responsiveness, accessibility, and navigation. Example Output: – Fast loading, mobile-friendly, intuitive navigation.",
-    
     "psychological_triggers": "Identify psychological triggers in one to five words per point, separated by commas. Note social proof, storytelling, or risk mitigation. Example Output: – Trust badges, emotional appeal, reciprocity.",
     
     "alignment_and_relevance": "Evaluate alignment and relevance in one to five words per point, separated by commas. Focus on targeting, personalization, and intent. Example Output: – Geo-targeted, consistent message, transactional intent.",
@@ -29,13 +27,9 @@
     
     "footer_elements": "Examine footer elements in one to five words per point, separated by commas. Note contact info, legal links, or resources. Example Output: – Privacy policy, FAQ links, email address.",
     
-    "page_structure_and_layout": "Assess layout in one to five words per point, separated by commas. Note grids, brand consistency, or responsiveness. Example Output: – Grid layout, responsive design, balanced sections.",
-    
-    "technical_performance": "Identify technical elements in one to five words per point, separated by commas. Note SSL, browser compatibility, or caching. Example Output: – SSL secured, fast loading, lazy loading.",
+    "page_structure_and_layout": "Assess layout in one to five words per point, separated by commas. Note grids, brand consistency, or design. Example Output: – Grid layout, artisctic design, balanced sections.",
     
     "additional_engagement_features": "Evaluate engagement features in one to five words per point, separated by commas. Note quizzes, gamification, or retargeting. Example Output: – Gamified badges, interactive survey, retargeting pixel.",
-    
-    "conversion_funnels": "Analyze conversion funnel elements in one to five words per point, separated by commas. Note progress indicators, upsells, or lead scoring. Example Output: – Simplified steps, upsell popup, lead scoring.",
     
     "testing_and_optimization": "Assess testing elements in one to five words per point, separated by commas. Note A/B testing or user feedback. Example Output: – A/B test, usability surveys, bounce rate analysis."
 }
