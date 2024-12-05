@@ -35,7 +35,7 @@
     
     "emotional_tone": "Identify the emotional tone in these frames from the video and provide a single, combined observation. Note moods like playful, joyful, dramatic, or nostalgic. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Joyful, vibrant, casual, friendly.",
     
-    "cta_presence": "Identify calls to action (CTAs) in these frames from the video and provide a single, combined observation. Note CTA forms like button, text, or symbol, and engagement design across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Bold CTA, clickable, red button, urgency.",
+    "cta_presence": "Identify calls to action (CTAs) in these frames from the video and provide a single, combined observation. Note CTA forms like button, text, or symbol, and engagement design across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only.  If no CTA is present, respond explicitly with No CTA present. Example Output: – Bold CTA, clickable, red button, urgency OR No CTA present.",
     
     "hook_presence": "Examine any hooks in these frames from the video and provide a single, combined observation. Identify hooks like bold statements, emotional appeal, humor, or shock value across the frames. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Bold statement, emotional appeal, eye-catching.",
     
@@ -57,17 +57,17 @@
     
     "offer_promotion": "Identify any offers or promotions in these frames from the video and provide a single, combined observation. Note elements like discounts, limited-time offers, or exclusivity. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Limited time, exclusive offer, 20% off.",
     
-    "hook_binary": "Examine these frames from the video to determine if there is a hook, such as an intriguing headline, emotional appeal, or other attention-grabbing elements. Respond with True if a hook is present, otherwise respond with False.",
+    "hook_binary": "Examine these frames from the video to determine if there is a hook, such as an intriguing headline, emotional appeal, or other attention-grabbing elements. Respond with True if a hook is present, otherwise respond with False. Respond only with True or False.",
     
-    "offer_binary": "Inspect these frames from the video for any indication of an offer or promotion, such as discounts, limited-time offers, or similar promotional elements. Respond with True if an offer or promotion is present, otherwise respond with False.",
+    "offer_binary": "Inspect these frames from the video for any indication of an offer or promotion, such as discounts, limited-time offers, or similar promotional elements. Respond with True if an offer or promotion is present, otherwise respond with False. Respond only with True or False.",
     
-    "cta_binary": "Analyze these frames from the video and determine if a call to action (CTA) element, such as a button, text, or symbol prompting action, is present. Respond with True if a CTA is present, otherwise respond with False.",
+    "cta_binary": "Analyze these frames from the video and determine if a call to action (CTA) element, such as a button, text, or symbol prompting action, is present. Respond with True if a CTA is present, otherwise respond with False. Respond only with True or False.",
     
-    "interactivity_binary": "Review these frames from the video to see if they suggest or encourage user interactivity, such as clickable elements or prompts. Respond with True if interactivity is suggested, otherwise respond with False.",
+    "interactivity_binary": "Review these frames from the video to see if they suggest or encourage user interactivity, such as clickable elements or prompts. Respond with True if interactivity is suggested, otherwise respond with False. Respond only with True or False.",
     
-    "product_presence_binary": "Examine these frames from the video and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False.",
+    "product_presence_binary": "Examine these frames from the video and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False. Respond only with True or False.",
     
-    "logo_presence_binary": "Analyze these frames from the video and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False.",
+    "logo_presence_binary": "Analyze these frames from the video and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False. Respond only with True or False.",
     
     "cta_specific": "Identify any calls to action (CTAs) in these frames from the video and generate a single, combined observation. Specify if the CTA is in the form of text, button, or symbol, and describe its emphasis and design for engagement. Ensure the response eliminates duplicate or redundant observations. Provide concise and unique keywords or short phrases only. Example Output: – Bold text, large button, high contrast, click here."
 }
