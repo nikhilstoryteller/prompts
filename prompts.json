@@ -35,7 +35,7 @@
     
     "emotional_tone": "Identify the emotional tone of the image in one to five words per point, separated by commas. Note moods like playful, joyful, dramatic, or nostalgic. Provide keywords or short phrases only. Example Output: – Joyful, vibrant, casual, friendly.",
     
-    "cta_presence": "Identify calls to action (CTAs) in the image in one to five words per point, separated by commas. Note CTA forms like button, text, or symbol, and engagement design. Provide keywords or short phrases only. Example Output: – Bold CTA, clickable, red button, urgency.",
+    "cta_presence": "Identify calls to action (CTAs) in the image in one to five words per point, separated by commas. Note CTA forms like button, text, or symbol, and engagement design. If no CTA is present, respond explicitly with 'No CTA present.' Example Output: – Bold CTA, clickable, red button, urgency OR No CTA present.",
     
     "hook_presence": "Examine any hook in the image in one to five words per point, separated by commas. Identify hooks like bold statements, emotional appeal, humor, or shock value. Provide keywords or short phrases only. Example Output: – Bold statement, emotional appeal, eye-catching.",
     
@@ -68,6 +68,4 @@
     "product_presence_binary":"Examine the image and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False. Respond only with True or False.",
 
     "logo_presence_binary":"Analyze the image and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False. Respond only with True or False.",
-
-    "cta_specific":"Identify any calls to action (CTAs) in the image in one to five words per point, separated by commas. Specify if the CTA is in the form of text, button, or symbol, and describe its emphasis and design for engagement. Provide keywords or short phrases only. Example Output: – Bold text, large button, high contrast, click here."
 }
