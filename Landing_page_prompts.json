@@ -7,8 +7,6 @@
     
     "cta_elements": "Identify CTAs in one to five words per point, separated by commas. Note design, placement, and text clarity. Example Output: – Sticky button, red CTA, clear text, urgency.",
     
-    "form_optimization": "Review form optimization in one to five words per point, separated by commas. Note type, fields, validation, and feedback. Example Output: – Inline form, minimal fields, clear labels, thank-you message.",
-    
     "trust_and_credibility_indicators": "Assess trust indicators in one to five words per point, separated by commas. Note testimonials, badges, or metrics. Example Output: – Verified badge, user reviews, success metrics, client logos.",
     
     "urgency_and_scarcity": "Analyze urgency and scarcity in one to five words per point, separated by commas. Note countdowns, exclusivity, or stock indicators. Example Output: – Limited stock, countdown timer, exclusive offer.",
@@ -19,17 +17,13 @@
     
     "compliance_and_legal": "Analyze legal compliance in one to five words per point, separated by commas. Note privacy policies, cookie banners, or accessibility. Example Output: – GDPR compliant, cookie banner, accessible design.",
     
-    "analytics_and_tracking": "Assess analytics elements in one to five words per point, separated by commas. Note tracking tools, heatmaps, or A/B testing. Example Output: – Google Analytics, heatmap, conversion tracking.",
-    
     "seo_elements": "Analyze SEO elements in one to five words per point, separated by commas. Note meta tags, keywords, or alt text. Example Output: – Optimized H1, target keywords, image alt text.",
-    
-    "social_media_integration": "Evaluate social media integration in one to five words per point, separated by commas. Note buttons, feeds, or social logins. Example Output: – Sharing buttons, embedded gallery, social login.",
-    
+      
     "footer_elements": "Examine footer elements in one to five words per point, separated by commas. Note contact info, legal links, or resources. Example Output: – Privacy policy, FAQ links, email address.",
     
     "page_structure_and_layout": "Assess layout in one to five words per point, separated by commas. Note grids, brand consistency, or design. Example Output: – Grid layout, artisctic design, balanced sections.",
     
-    "additional_engagement_features": "Evaluate engagement features in one to five words per point, separated by commas. Note quizzes, gamification, or retargeting. Example Output: – Gamified badges, interactive survey, retargeting pixel.",
+    "additional_engagement_features": "Evaluate engagement features in one to five words per point, separated by commas. Note quizzes, gamification, or retargeting. Example Output: – Gamified badges, interactive survey, retargeting pixel."
     
-    "testing_and_optimization": "Assess testing elements in one to five words per point, separated by commas. Note A/B testing or user feedback. Example Output: – A/B test, usability surveys, bounce rate analysis."
+   
 }
