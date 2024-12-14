@@ -67,5 +67,7 @@
     
     "product_presence_binary":"Examine the image and identify if there is a product featured. Respond with True if a product is visible, otherwise respond with False. Respond only with True or False.",
 
-    "logo_presence_binary":"Analyze the image and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False. Respond only with True or False."
+    "logo_presence_binary":"Analyze the image and determine whether there is a visible logo. Respond with True if a logo is present, otherwise respond with False. Respond only with True or False.",
+
+    "test_kpi":"Analyze the image and find me the best suitable kpis to check for in order to get the performance information"
 }
